@@ -1,1 +1,1 @@
-# school-schedule-system-
+# school-schedule-system
